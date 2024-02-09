@@ -40,7 +40,7 @@ echo' <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
       <button class="btn btn-outline-success" data-bs-toggle="modal" data-bs-target="#loginModal">Login</button>
       <button class="btn btn-outline-success" data-bs-toggle="modal" data-bs-target="#signupModal">Signup</button>
 
-   echo </div>
+   echo.. </div>
 </div>
 </nav>';
 include 'partials/_loginModal.php';
